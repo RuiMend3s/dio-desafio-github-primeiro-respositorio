@@ -1,0 +1,4 @@
+Pontos para praticar: Criação de repositório no GitHub
+Git Bash é um terminal extendido para otimizar o uso do git
+A principal função é facilitar a ligação com o repositório e todas as anotações efetuadas na maquina local e se interligar com o github
+Git status: quer dizer o status atual da pasta, um exemplo ao dar um git status em uma pasta com um arquivo editado ele te da uma mensagem que você possui um novo arquivo, ou alterações em determidado arquivo.

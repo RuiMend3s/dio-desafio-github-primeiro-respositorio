@@ -1,4 +1,19 @@
 Pontos para praticar: Criação de repositório no GitHub
+
 Git Bash é um terminal extendido para otimizar o uso do git
+
 A principal função é facilitar a ligação com o repositório e todas as anotações efetuadas na maquina local e se interligar com o github
+
 Git status: quer dizer o status atual da pasta, um exemplo ao dar um git status em uma pasta com um arquivo editado ele te da uma mensagem que você possui um novo arquivo, ou alterações em determidado arquivo.
+
+git clone: Copia seu repositorio criado no GitHub para a maquina local: git clone "link aqui"
+
+Git commit-m quando voce cria um repositorio na maquina e quer coloca-lo no git hub então voce tem que "comitar" a sua pasta/arquivo
+
+
+## Atalhos que fazem a diferença
+
+Para adicionar um link oculto dentro da frase:
+Dentro de Colchetes [] escreva o nome do atalho por exemplo abaixo o primeiro link útil após colchetes abra e fecha parenteses () e cole dentro o link, assim o link na visualização fica pequeno e clean.
+
+
